@@ -1,0 +1,2 @@
+ssh root@nat.mugassn.dpdns.org -p 41669
+password: UZpTA941IBIyby6H
